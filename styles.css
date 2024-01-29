@@ -1,0 +1,37 @@
+.background {
+    background-color: rgb(156, 156, 156);
+}
+
+.center_text {
+    text-align: center;
+}
+
+.table {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+}
+
+.color {
+    color: rgb(156, 156, 156);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.list_style {
+    list-style: none;
+}
+
+.bold_word {
+    font-weight: bolder;
+}
